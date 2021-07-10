@@ -1,1 +1,2 @@
-# ryzentosh
+# AMD Mac Pro - OpenCore EFI for GIGABYTE B550I AORUS PRO AX
+

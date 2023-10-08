@@ -3,5 +3,5 @@
 ![Screenshot](https://raw.githubusercontent.com/sergeykorablin/ryzentosh/main/screen.png)
 
 
-Usefull links:
+Useful links:
 * https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
